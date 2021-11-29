@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/evaluacion8proyectofinal-equipo-22/static/css/main.448fe5b5.chunk.css",
+    "main.js": "/evaluacion8proyectofinal-equipo-22/static/js/main.84ea4cfc.chunk.js",
+    "main.js.map": "/evaluacion8proyectofinal-equipo-22/static/js/main.84ea4cfc.chunk.js.map",
+    "runtime-main.js": "/evaluacion8proyectofinal-equipo-22/static/js/runtime-main.a80fa1c6.js",
+    "runtime-main.js.map": "/evaluacion8proyectofinal-equipo-22/static/js/runtime-main.a80fa1c6.js.map",
+    "static/css/2.7f2ec892.chunk.css": "/evaluacion8proyectofinal-equipo-22/static/css/2.7f2ec892.chunk.css",
+    "static/js/2.954d1554.chunk.js": "/evaluacion8proyectofinal-equipo-22/static/js/2.954d1554.chunk.js",
+    "static/js/2.954d1554.chunk.js.map": "/evaluacion8proyectofinal-equipo-22/static/js/2.954d1554.chunk.js.map",
+    "static/js/3.1dd10398.chunk.js": "/evaluacion8proyectofinal-equipo-22/static/js/3.1dd10398.chunk.js",
+    "static/js/3.1dd10398.chunk.js.map": "/evaluacion8proyectofinal-equipo-22/static/js/3.1dd10398.chunk.js.map",
+    "index.html": "/evaluacion8proyectofinal-equipo-22/index.html",
+    "static/css/2.7f2ec892.chunk.css.map": "/evaluacion8proyectofinal-equipo-22/static/css/2.7f2ec892.chunk.css.map",
+    "static/css/main.448fe5b5.chunk.css.map": "/evaluacion8proyectofinal-equipo-22/static/css/main.448fe5b5.chunk.css.map",
+    "static/js/2.954d1554.chunk.js.LICENSE.txt": "/evaluacion8proyectofinal-equipo-22/static/js/2.954d1554.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a80fa1c6.js",
+    "static/css/2.7f2ec892.chunk.css",
+    "static/js/2.954d1554.chunk.js",
+    "static/css/main.448fe5b5.chunk.css",
+    "static/js/main.84ea4cfc.chunk.js"
+  ]
+}
